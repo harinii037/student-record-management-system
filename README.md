@@ -30,7 +30,7 @@ The program is menu-driven and lets users perform basic operations like adding, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/harinii037/StudentManager.git
+   git clone https://github.com/harinii037/student-record-management-system.git
    ```
 
 2. Navigate to the folder:
